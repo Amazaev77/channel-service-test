@@ -3,6 +3,7 @@
 ```
   - git clone https://github.com/Amazaev77/channel-service-test.git
   - cd channel-service-test/channel-service-web
+  - yarn install
   - yarn start
 ```
 
@@ -11,6 +12,7 @@
 ```
   - git clone https://github.com/Amazaev77/channel-service-test.git
   - cd channel-service-test/channel-service-native
+  - yarn install
   - yarn start
   - Направить камеру на qr-код через приложение expo
 ```
