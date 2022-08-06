@@ -16,5 +16,7 @@
   - yarn start
   - Направить камеру на qr-код через приложение expo
 ```
+#### Есть warning в native из-за if в asyncThunk, реальной авторизации этот if не будет
+
 ### Login: login
 ### Password: password
